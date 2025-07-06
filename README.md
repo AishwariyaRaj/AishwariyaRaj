@@ -1,13 +1,12 @@
 ## Hi there 👋 It's me Aish
 
 Computer Science Engineering Student 
+- 🌱 I’m currently learning AI
+- 🤖 Passionate about learning AI and building cool things.
 <!-- Right-aligned animated GIF -->
 <p align="right">
   <img src="https://github.com/user-attachments/assets/66309385-d6f5-495a-88f9-b3030e78a6ad" alt="Animate" width="400">
 </p>
-
-- 🌱 I’m currently learning AI
-- 🤖 Passionate about learning AI and building cool things.
 - 👩‍💻 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Aishwariya_55?t=zhS2Sc-lM3NppddIdiZVoA&s=09) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aishwariya-dharmaraj-2b91792a1/) 
 
