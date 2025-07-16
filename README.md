@@ -13,8 +13,21 @@ Computer Science Engineering Student
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AishwariyaRaj&bg_color=121212&color=ffffff&line=9afefc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏅 HackerRank Highlights
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aishwariya229)
+## 🧠 HackerRank Stats
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aishwariya229)
+
+
+## 📊 Aish's GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AishwariyaRaj&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwariyaRaj&theme=react&ring=ffffff&fire=ffffff&currStreakLabel=00ffff&sideLabels=ffffff&currStreakNum=00ffff&sideNums=00ffff&dates=ffffff&border=ffffff&stroke=ffffff" width="45%" />
+</div>
+
+
+
 
 
