@@ -24,7 +24,7 @@ Computer Science Engineering Student
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AishwariyaRaj&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="45%" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=AishwariyaRaj&theme=react" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=AishwariyaRaj&theme=react" width="45%" />
 </div>
 
 
