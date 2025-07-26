@@ -27,6 +27,10 @@ Computer Science Engineering Student
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwariyaRaj&layout=compact&theme=react&border_radius=10" width="34%" />
 </div>
 
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=AishwariyaRaj&color=blue&style=for-the-badge)
+
+
 
 
 
