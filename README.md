@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Aish
 
 Computer Science Engineering Student  
-- 🌱 I’m currently learning AI  
+- 🌱 Simply A Learner  
 - 🤖 Passionate about learning AI and building cool things. <img align="right" src="https://github.com/user-attachments/assets/66309385-d6f5-495a-88f9-b3030e78a6ad" alt="Animate" width="450"/>
 
 - 👩‍💻 How to reach me :  
