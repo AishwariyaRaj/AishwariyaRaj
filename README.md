@@ -29,6 +29,10 @@
 </div>
 
 
+<div align="center">
+  <img src="https://github.com/AishwariyaRaj/AishwariyaRaj/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 
 
 
