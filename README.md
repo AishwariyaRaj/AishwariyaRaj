@@ -1,8 +1,10 @@
-## Hi there 👋 It's me Aish
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Aishwariya+Raj" alt="Typing SVG" />
+</div>
 
-Computer Science Engineering Student  
 - 🌱 Simply A Learner  
 - 🤖 Passionate about learning AI and building cool things. <img align="right" src="https://github.com/user-attachments/assets/66309385-d6f5-495a-88f9-b3030e78a6ad" alt="Animate" width="450"/>
+
 
 - 👩‍💻 How to reach me :  
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -22,10 +24,13 @@ Computer Science Engineering Student
 ## 📊 Aish's GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AishwariyaRaj&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="45%" />
-  &nbsp;&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwariyaRaj&layout=compact&theme=react&border_radius=10" width="34%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AishwariyaRaj&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AishwariyaRaj&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
+
+
+
+
 
 
 
